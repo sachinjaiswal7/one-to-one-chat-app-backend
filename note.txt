@@ -1,0 +1,5 @@
+TODO : add photo functionality in the website
+TODO : you need to learn the behaviour of the async code inside the body of an event from the socket.io
+
+//things to remember 
+1. for logging out the user just remove the cookies from the client side browser.
